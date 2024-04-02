@@ -1,6 +1,5 @@
 # recipe for soup
-This is a LOCAL change
+### local change
 This recipe is about making soup
 Thank you for your time
-This is a REMOTE change
-
+### Local change
